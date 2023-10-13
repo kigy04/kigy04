@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kigy04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @kigy
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on making coding simple
 - 📫 How to reach me ...kisibogift383@gmail.com
 
